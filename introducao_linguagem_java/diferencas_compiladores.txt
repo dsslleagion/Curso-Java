@@ -1,0 +1,22 @@
+compilador
+linguagens que possuem compilador, quando são e executadas em outras maquinas 
+é necessario modificar o codigo fonte dela para se adaptar ao hardware que será compilador
+,(softwares rapidos), linguagens menos sucetiveis a bugs.
+
+interpretador
+linguagens com um interpretador permite executar o mesmo codigo em varias plataformas
+utilizando o mesmo interpretador, e pelo fato de que esses softwares são compildos no 
+momento que são executados eles são (lentos), acessiveis para bugs.
+
+gera uma interpretação intermediaria do codigo bytecode , ja compilada do ponto de vista 
+sintatico verificado, então ele vai rodar emcima de uma maquina virtual, ela pega as vantagens
+dos dois mundos de execução de codigo do compilador e interpretador e resolve problemas de
+ portabilidade.
+
+ 
+
+
+
+
+
+
