@@ -1,0 +1,6 @@
+estrutura sequencial
+
+- entrada de dados 
+- processamento (atribuição)
+- Saída
+
