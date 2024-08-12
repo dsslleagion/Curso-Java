@@ -1,4 +1,4 @@
-//funções matematicas
+//funções matematicas ------
 //a = Math.sqrt(x); Variavel a recebe a raiz quadrada de X
 //A = Math.pow(x,y); vsriavel a recebe o resultado de x elevado a y
 // A = Math.abs(x); variavel a receve o valor absoluto de x
