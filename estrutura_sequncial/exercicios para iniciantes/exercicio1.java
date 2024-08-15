@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio{
+public class exercicio1{
     public static void main(String[] args) {
         
         // double largura,comprimento,metroQuadrado,area,preco;
