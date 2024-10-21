@@ -1,0 +1,11 @@
+faça um programa para ler a cotação do dolar 
+, e depois um valor em dolares a ser comprado, programa
+uma pessoa em reais. informar quantos reais a pessoa vai pagar 
+pelos dólares, considerando ainda que a pessoa 
+terá que pagar 6% de IOF sobre o valor em dolar . 
+Criar uma class CurrencyConverter
+para ser responsavel pelos calculos.
+
+What is thw dolar price? 3.10
+How Many dollars will be bought? 200.00
+Amount to be paid in reais = 657.20
